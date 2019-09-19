@@ -46,6 +46,12 @@
 			<artifactId>deeplearning4j-zoo</artifactId>
 			<version>1.0.0-beta4</version>
 		</dependency>
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.10</version>
+			<scope>provided</scope>
+		</dependency>
 	</dependencies>
 
 	<build>
